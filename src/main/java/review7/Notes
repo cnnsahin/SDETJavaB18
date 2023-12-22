@@ -1,0 +1,16 @@
+Methods:
+A block of code that performs a spesific action when called. In java methods can only exit inside a class.
+if the method is instance method we need to create the object of the class to call
+if method is static we use the name of the class method name
+Benefit:
+They allow us to reuse code.
+There are 2 main types of methods
+1) method with void n type
+2) Methods with specific return times
+create a method which will take an array of
+instance as input and going to return the sum of all the numbers from the input array
+How do we know when we should create a static variable
+Whenever we want to store something that is universal(Constans) and it does
+usually change we can safely go and create a static variable for that.Like vakue of PI value of Gravity
+How do we know when we create static methods?
+When our methods dont require instance fields create them as static
