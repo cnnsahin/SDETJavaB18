@@ -1,0 +1,20 @@
+Polymorphism:
+ it"s a mechanism in java that allows the methods behav differently depending upon which
+ object are using to call them.There are two types of polymorphism dynamic and static.
+ Dynamic polymorphism is achieve through method overriding
+ Static Polymorphism is achieved through method overloading.
+
+ Why should we use Polymorphism
+ it allows us to avoid code repetition. if we have to call multiple methods
+ from multiple calasese and they are sibling classes.
+
+ What do we need to apply Polymorphism.
+ 1) Inheritance
+ 2) Method overriding
+ 3) Type casting
+ 4) Loops
+ 5) Arrays
+
+ Interface:
+ Interfaces are like contracts which makes sure that every body is on the same page
+ They achieve this through abstraction.
