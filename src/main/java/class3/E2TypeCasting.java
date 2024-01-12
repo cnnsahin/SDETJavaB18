@@ -7,6 +7,6 @@ public class E2TypeCasting {
         double totalPrice=price*quantity;
         // we can get rid of decimal part by
         // type casting
-        System.out.println((int)totalPrice);
+        System.out.println((int)totalPrice);//36
     }
 }

@@ -1,0 +1,12 @@
+Encapsulation:
+         it helps us more secure and manageable code
+ Collections Framework:
+ collections framework  is simply a collection of classes which
+ help us manage and manipulate large amount of data
+ Why we need collection Framework?
+ 1) We cant use arrays always as they are fixed in size.
+ 2) Arrays dont have built in methods
+
+ ArrayList:
+
+

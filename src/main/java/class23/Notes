@@ -1,0 +1,13 @@
+LinkedList:
+
+Set:
+    Sets are very very similar to list but they do not allow duplicate elements.There are 3 sets
+    1-HashSets:
+    Upside: Its super fast
+    Downside: They don't store the data in order.
+    2- LinkedHashSet:
+    Upside: It remembers the order
+    Downside: Itis slower than HashSet.
+    3-TreeSet:
+    Upside: It keeps the data sorted always
+    Downside: inserting new elements very slow.

@@ -10,7 +10,7 @@ public class E4LogicalOperators {
         if(bringFlower||bringChocolates||allMyMistake){
             System.out.println("HomeMinister is Happy");
         }else{
-            System.out.println("HomeMinister is angry");
+            System.out.println("HomeMinister is angry");// Homeminister angry
         }
     }
 }

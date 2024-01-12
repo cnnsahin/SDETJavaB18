@@ -2,7 +2,7 @@ package class16;
 
 public class AnimalTester {
     public static void main(String[] args) {
-        Dog d=new Dog();
+       /*
         d.name="Jacky";
         d.age=10;
         d.weight=22;
@@ -17,6 +17,6 @@ public class AnimalTester {
         Animal a=new Animal();
         a.name="lol";
         a.age=5;
-        a.sleep();
+        a.sleep();*/
     }
 }

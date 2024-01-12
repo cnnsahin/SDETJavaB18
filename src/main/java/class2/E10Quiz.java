@@ -13,7 +13,7 @@ public class E10Quiz {
         System.out.println("10"+10+10);
         //10+10=>20+"10"=>"2010"
         System.out.println(10+10+"10");
-        //11:55
+
 
     }
 }

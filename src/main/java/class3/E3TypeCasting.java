@@ -6,7 +6,7 @@ public class E3TypeCasting {
         int num2=num*20;
 
         double num3=num2/10;
-        System.out.println(num3);
+        System.out.println(num3);//20.0
 
     }
 }

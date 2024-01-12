@@ -23,7 +23,7 @@ public class T5IfElseGrades {public static void main(String[] args) {
     System.out.println("Please enter the mark for final 0-100");
     finalMarks=sc.nextDouble();
     avgMarks=(quizMarks+midMarks+finalMarks)/3;
-    // Break till 1:54
+
     if(avgMarks>=90){
         grade='A';
     }else if(avgMarks>=70){

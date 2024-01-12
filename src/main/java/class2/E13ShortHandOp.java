@@ -4,11 +4,11 @@ public class E13ShortHandOp {
     public static void main(String[] args) {
         int num=100;
         //num=num+20;
-        // what ever we have in num add
+        // what ever we have int num add
         // 20 to that and store the results back in num
         num+=20;
 
-        System.out.println(num);
+        System.out.println(num);//120
     }
 
 }

@@ -6,11 +6,11 @@ public class E4TypeCastingQuiz {
 
         long box1=234;
         int box2=(int)box1;
-        System.out.println(box2);
+        System.out.println(box2);//234
 
         short box3=1300;
         float box4=box3;
-        System.out.println(box4);
+        System.out.println(box4);//1300.0
 
 
     }
